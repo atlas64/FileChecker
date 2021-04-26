@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #title           :filechecker.py
-#description     :threaded network port scanner, can scan range of addresses
+#description     :Pulls MD5 checksum from file and then runs check against virus total and kaspersky
 #author          :atl4s
 #date            :4/26/21
 #python_version  :3.7.9   
