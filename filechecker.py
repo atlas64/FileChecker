@@ -1,3 +1,11 @@
+#!/usr/bin/python3
+#title           :filechecker.py
+#description     :threaded network port scanner, can scan range of addresses
+#author          :atl4s
+#date            :4/26/21
+#python_version  :3.7.9   
+#==============================================================================
+
 import json
 import os
 import requests 
